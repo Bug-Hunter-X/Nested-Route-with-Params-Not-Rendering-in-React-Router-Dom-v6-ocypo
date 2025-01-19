@@ -1,0 +1,1 @@
+This repository demonstrates a bug in React Router Dom v6 where nested routes with parameters fail to render correctly. The issue arises when navigating to a nested route containing parameters from another route. The solution involves correctly structuring the routes to ensure that the nested routes with parameters are rendered properly.
